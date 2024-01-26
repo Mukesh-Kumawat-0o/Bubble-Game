@@ -39,7 +39,8 @@
     padding: 2.5px 5px;
   }
   .ground {
-    margin: 8px;
+    margin-inline: 6px;
+    margin-block: 10px;
   }
   .afterGame {
     padding-top: 60px;
