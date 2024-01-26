@@ -73,6 +73,7 @@ body {
   font-weight: bolder;
 }
 .start-button {
+  text-align: center;
   font-size: 1.5rem;
   color: rgb(6, 172, 0);
   padding: 4px 8px;

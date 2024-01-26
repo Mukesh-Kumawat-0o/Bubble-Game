@@ -23,23 +23,23 @@
     height: 90%;
   }
   .board-child {
-    column-gap: 5px;
+    column-gap: 4px;
   }
   .board-text {
-    font-size: 1rem;
+    font-size: 0.9rem;
   }
   .monitor {
     border: 2px solid rgb(6, 172, 0);
-    font-size: 1rem;
-    padding: 2.5px 10px;
+    font-size: 0.9rem;
+    padding: 2px 8px;
   }
   .start-button {
-    font-size: 1rem;
-    border: 2px solid black;
-    padding: 3px 6px;
+    font-size: 0.9rem;
+    border: 1px solid black;
+    padding: 2.5px 5px;
   }
   .ground {
-    margin: 6px;
+    margin: 8px;
   }
   .afterGame {
     padding-top: 60px;
