@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BUBBLE-GAME</title>
+    <link rel="stylesheet" href="bubble.css">
+    <link rel="stylesheet" href="bubbleMediaQueries.css">
+
+</head>
+<body>
+<div class="parent-box">
+<h1 class="game">BuBbLe-GaMe</h1>
+
+    <div class="child-box">
+        <div class="board">
+            <div class="board-child">
+                <h2 class="start-button" id="start">Start</h2>
+            </div>
+            <div class="board-child">
+                <h2 class="board-text">Hit</h2>
+                <p class="monitor" id="hitVal">0</p>
+            </div>
+            <div class="board-child">
+                <h2 class="board-text">Timer</h2>
+                <p class="monitor" id="timer">60</p>
+            </div>
+            <div class="board-child">
+                <h2 class="board-text">Score</h2>
+                <p class="monitor" id="scoreVal">0</p>
+            </div>
+            <div class="board-child">
+                <h2 class="start-button hide-reload" id="restart"><i class="fa-solid fa-rotate-right"></i></h2>
+            </div>
+        </div>
+        <div class="ground" id="bubbles">
+        </div>
+    </div>
+</div>
+<script src="https://kit.fontawesome.com/c1babca046.js" crossorigin="anonymous"></script>
+    <script src="bubble.js"></script>
+</body>
+</html>       

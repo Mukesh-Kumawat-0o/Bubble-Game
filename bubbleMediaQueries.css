@@ -1,0 +1,66 @@
+@media only screen and (max-width: 768px) {
+  .board-text {
+    font-size: 1.25rem;
+  }
+  .monitor {
+    border: 2.5px solid rgb(6, 172, 0);
+    font-size: 1.25rem;
+  }
+  .start-button {
+    font-size: 1.25rem;
+    border: 2.5px solid black;
+  }
+}
+
+@media only screen and (max-width: 425px) {
+  .game {
+    font-size: 1.75rem;
+    padding: 6px;
+    text-underline-offset: 3px;
+    margin-block: 8px;
+  }
+  .child-box {
+    height: 90%;
+  }
+  .board-child {
+    column-gap: 5px;
+  }
+  .board-text {
+    font-size: 1rem;
+  }
+  .monitor {
+    border: 2px solid rgb(6, 172, 0);
+    font-size: 1rem;
+    padding: 2.5px 10px;
+  }
+  .start-button {
+    font-size: 1rem;
+    border: 2px solid black;
+    padding: 3px 6px;
+  }
+  .ground {
+    margin: 6px;
+  }
+  .afterGame {
+    padding-top: 60px;
+    text-align: center;
+    font-size: 1.25rem;
+    color: rgb(212, 212, 212);
+  }
+}
+
+@media only screen and (max-width: 375px) {
+  .board-text {
+    font-size: 0.95rem;
+  }
+  .monitor {
+    border: 2px solid rgb(6, 172, 0);
+    font-size: 1rem;
+    padding: 1.5px 6px;
+  }
+  .start-button {
+    font-size: 0.95rem;
+    border: 2px solid black;
+    padding: 2px 3px;
+  }
+}
