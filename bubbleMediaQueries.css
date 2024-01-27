@@ -20,7 +20,7 @@
     margin-block: 8px;
   }
   .child-box {
-    height: 90%;
+    height: 88%;
   }
   .board-child {
     column-gap: 4px;
@@ -34,13 +34,16 @@
     padding: 2px 8px;
   }
   .start-button {
-    font-size: 0.9rem;
+    font-size: 0.95rem;
     border: 1px solid black;
     padding: 2.5px 5px;
   }
   .ground {
     margin-inline: 6px;
     margin-block: 10px;
+  }
+  .bubble-game:hover {
+    background-color: rgb(252, 48, 48);
   }
   .afterGame {
     padding-top: 60px;
