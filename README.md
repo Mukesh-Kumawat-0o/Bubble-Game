@@ -1,5 +1,7 @@
 ﻿# Bubble-Game
-## Bubble Game is completely developed by using HTML, CSS, JavaScript and with responsiveness.
+## Bubble Game is completely developed by using HTML, CSS, JavaScript and it is responsive.
+### Game Link :- https://mukesh-kumawat-0o.github.io/Bubble-Game/
+### Youtube Link :- https://www.youtube.com/watch?v=qb1hNpCUEgA
 ### ScreenShots -
 
 ![BUBBLE-GAME - Profile 1 - Microsoft​ Edge 27-01-2024 06_56_02 PM](https://github.com/Mukesh-Kumawat-0o/Bubble-Game/assets/121726509/657b7005-7d09-4588-8ce3-c141e034dd38)
